@@ -1,0 +1,6 @@
+build*/
+*.kdev4
+*~
+corrade
+magnum
+SDL2-2.0.10
